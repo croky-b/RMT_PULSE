@@ -3,7 +3,7 @@
 #include "driver/rmt.h"
 
 static unsigned long lastStateTime;
-//static const char* TAG = "RMT";
+
 
 #define RMT_TICK_PER_US 1
 // determines how many clock cycles one "tick" is
